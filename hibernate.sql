@@ -1,0 +1,2 @@
+
+SELECT * FROM kursverwaltung.teilnehmer;
